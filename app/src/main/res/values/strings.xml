@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">norimori.awty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="prompt_Phone">Phone Number</string>
+    <string name="prompt_Message">Message</string>
+    <string name="prompt_Frequency">Minutes between each nag</string>
+    <string name="btn_Action">Start</string>
+    <string name="title_activity_alarm_receiver">AlarmReceiverActivity</string>
+
+</resources>
